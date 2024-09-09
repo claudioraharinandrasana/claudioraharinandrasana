@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @claudioraharinandrasana
-- 👀 I’m interested in 
+- 👋 Hi, I’m claudio raharinandrasana
+- 👀 I’m interested in learning sequence analysis
 - 🌱 I’m currently learning the command base
 - 💞️ I’m looking to collaborate on data analysis
 - 📫 You can reach me buy my email address: claudio@pasteur.mg
